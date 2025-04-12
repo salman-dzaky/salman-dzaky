@@ -3,6 +3,11 @@
 - 📫 How to reach me: ✉️ salmandzakymujahid@gmail.com
 
 ## Connect with me:
+<p>
+  <a href="mailto:salmandzakymujahid@gmail.com"><img src = "https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
+
+</p>
+
 <!--
 **salman-dzaky/salman-dzaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
